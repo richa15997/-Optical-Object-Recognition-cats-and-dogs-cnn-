@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 20 11:32:02 2017
-
-@author: Richa
-"""
-
-# -*- coding: utf-8 -*-
-
-
 from keras.models import Sequential#used for neural network sequence of layers from the image
 from keras.layers import Convolution2D#used for convolution layers imput:image output:feature maps
 from keras.layers import MaxPooling2D#input feature map output:pooled feature map
