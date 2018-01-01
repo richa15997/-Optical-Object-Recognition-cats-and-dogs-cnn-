@@ -1,4 +1,6 @@
-# cats-and-dogs-cnn
+# Optical Object Recognition-cats and dogs-cnn
+
+
 
 This project focuses on distinguishing cats and dogs by using Convolution Neural Network for beginners. It contains all the information along with description of each line of code for starters.
 
